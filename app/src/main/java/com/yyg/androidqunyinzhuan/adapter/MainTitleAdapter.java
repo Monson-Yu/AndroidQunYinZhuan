@@ -23,7 +23,7 @@ public class MainTitleAdapter extends BaseAdapter {
 
     @Override
     public int getCount() {
-        return 14;
+        return 13;
     }
 
     @Override
